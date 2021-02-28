@@ -9,7 +9,7 @@ works with Alfred 3
 
 ## Usage
 - Clone this repo and install `Open-with-Sublime-Merge.alfredworkflow`  
-**OR**: Download from [Packal](http://www.packal.org/workflow/open-with-sublime-merge)
+**OR**: Download from [Packal](http://www.packal.org/workflow/open-sublime-merge)
 - Open Alfred:
   ```bash
   merge <folder-name>
