@@ -2,7 +2,7 @@
 ### Alfred workflow for opening a folder with Sublime Merge
 
 <p align="center">
-<img alt="open-with-sublime-merge" src="https://gfycat.com/colorfulimpracticalcanary.gif"/>
+<img alt="open-with-sublime-merge" src="https://thumbs.gfycat.com/ColorfulImpracticalCanary-size_restricted.gif"/>
 </p>
 
 works with Alfred 3
